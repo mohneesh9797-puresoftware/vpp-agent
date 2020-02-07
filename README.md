@@ -1,3 +1,7 @@
+:warning: **THIS BRANCH IS OBSOLETE! PLEASE USE `master` BRANCH!** :warning:
+
+---
+
 # VPP Agent
 
 ![GitHub contributors](https://img.shields.io/github/contributors/ligato/vpp-agent.svg)
